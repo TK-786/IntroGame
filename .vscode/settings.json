@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Game Dev Test Project.sln"
+    "dotnet.defaultSolution": "IntroGame.sln"
 }
